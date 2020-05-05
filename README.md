@@ -1,1 +1,3 @@
-# leetcode_learning
+# LeetCode備忘録
+LeetCodeを用いてプログラミングの勉強を行います．コードをこのリポジトリにまとめていきます．
+使用する言語は主にc++で，問題によってpythonのほうが簡単そうならpythonを使用していきます．
